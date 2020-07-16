@@ -37,7 +37,7 @@ function tinyFriends(arr) {
     }
 }
 
-let ft = -129;
+let ft = 129;
 let mile_result = feetToMile(ft);
 console.log("The mile converted value is:", mile_result);
 

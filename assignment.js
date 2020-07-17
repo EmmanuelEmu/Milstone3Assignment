@@ -77,7 +77,7 @@ console.log("The total required woods is: " + totalWood + " cubic/feet");
 let friends = ["Emu", "Mukta", "JONY"];
 console.log("The small name among the array is : ", tinyFriend(friends));
 
-let floor = 0;
+let floor = 40;
 console.log("The total amount of bricks is : ", brickCalculator(floor));
 
 
